@@ -1,3 +1,5 @@
+![Build-Push-And-Test Workflow](https://github.com/MigliS/bfh-cas-cld-docker-builds/actions/workflows/build-push-and-deploy.yml/badge.svg)
+
 # Linux Tweet App
 
 This is a very simple NGINX website that allows a user to send a tweet. 
